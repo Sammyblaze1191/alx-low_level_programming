@@ -1,15 +1,15 @@
 #include <stdio.h>
 
-/**
+/*
  *
- * * main - prints all possible combinations of single-digit numbers
+ * main - prints all possible combinations of single-digit numbers
  *
- * * Return: Always 0 (Success)
+ * Return: Always 0 (Success)
  *
- * */
+ */
 
 int main(void)
-
+/*a program that prints all possible combinations of single-digit numbers.*/
 {
 
 	int n;
@@ -35,5 +35,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
 }
